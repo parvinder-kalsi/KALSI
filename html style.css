@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+h1 {
+	background: #42255A;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-weight: 500;
+	text-align: centre;
+	font-size: 70px;
+	color: forestgreen;
+		padding:0px 0px 0px 50px;
+	
+}
+h2 {
+	font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	padding:0px 0px 0px 50px;
+	color: orangered;
+	
+	
+		
+}
+
+h3 {
+		padding:0px 0px 0px 50px;
+	color:darkorchid;
+		font size:40px;
+}
